@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gu-Rocha
 - 👀 I’m interested in Web Developer career
-- 🌱 I’m currently learning UX/UI Design and Web Development
+- 🌱 I’m currently learning Web Development and UX/UI Design.
 - 📫 How to reach me www.linkedin.com/in/gustavorochac
 
 <!---
