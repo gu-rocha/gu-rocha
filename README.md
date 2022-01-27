@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gustavo
-- 👀 I'm interested in Developer career
+- 👀 I'm interested in Web & Mobile Developer career
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me gustavohe.rocha@gmail.com
 
