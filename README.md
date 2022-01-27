@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gu-Rocha
 - 👀 I’m interested in Web Developer career
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me www.linkedin.com/in/gustavorochac
 
 <!---
