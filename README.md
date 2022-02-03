@@ -1,7 +1,7 @@
 
   - 👋 Hi, I’m Gustavo</li>
   - 👀 I'm interested in Web & Mobile Developer career</li>
-  - 👨‍💻 I’m currently learning Web Development</li>
+  - 👨‍💻 I’m currently learning Front-End Development</li>
  
 <h3>Reach me</h3>
 
