@@ -1,8 +1,9 @@
-<ul>
-  <li>👋 Hi, I’m Gustavo</li>
-  <li>👀 I'm interested in Web & Mobile Developer career</li>
-  <li>👨‍💻 I’m currently learning Web Development</li>
-  <br>
+
+  - 👋 Hi, I’m Gustavo</li>
+  - 👀 I'm interested in Web & Mobile Developer career</li>
+  - 👨‍💻 I’m currently learning Web Development</li>
+ 
+<h3>Reach me</h3>
 
 <a href="https://www.linkedin.com/in/gustavorochac" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
@@ -12,7 +13,31 @@
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
 </a>
 
-</ul>
+<h3>Tech Skills</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
+
+<h3>Design Skills</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
