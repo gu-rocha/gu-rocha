@@ -1,7 +1,7 @@
 
  ## Hi, I’m Gustavo
  
- - 🚀 I'm interested in Web & Mobile Developer career
+ - 🚀 I'm interested in Web Developer career
  - 👨‍💻 I’m currently learning Front-End Development
  
 ## Reach me
@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </p>
 
+## Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-rocha&layout=compact&langs_count=10&theme=dracula&custom_title=Top Languages" alt="Top Languages" /></a>
 
 
 
