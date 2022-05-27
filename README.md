@@ -38,7 +38,7 @@
 
 ## Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-rocha&layout=compact&langs_count=10&theme=dracula&custom_title=Top Languages" alt="Top Languages" /></a>
+<a href="https://github.com/gu-rocha/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-rocha&layout=compact&langs_count=10&theme=dracula&custom_title=Most Used Languages" alt="Most Used Languages" /></a>
 
 
 
