@@ -39,8 +39,7 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-rocha&layout=compact&theme=dracula)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gu-rocha&layout=compact&theme=omni)
 
 
 
