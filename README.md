@@ -2,7 +2,6 @@
  ## Hi, I’m Gustavo
  
  :zap: I'm in transition of career <br>
- :man_technologist: Studying Mobile Development
  
 ## Reach me
 
