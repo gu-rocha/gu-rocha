@@ -1,7 +1,7 @@
 
  ## Hi, I’m Gustavo
  
- :zap: I'm in transition of career <br>
+ :zap: I'm in transition of career.
  
 ## Reach me
 
