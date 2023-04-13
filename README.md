@@ -34,13 +34,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 </p>
 
-## OS
-
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
 ## Stats
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gu-rocha&layout=compact&theme=omni)
