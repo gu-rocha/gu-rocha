@@ -1,7 +1,7 @@
 
  ## Hi, I’m Gustavo
  
- :zap: Programming student in transition of career.
+ :zap: Developer in training seeking for career transition
  
 ## Reach me
 
