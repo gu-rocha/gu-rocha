@@ -1,7 +1,7 @@
 
  ## Hi, I’m Gustavo
  
-👽 Android Developer in training 
+⚡ Android Developer in training 
  
 ## Reach me
 
