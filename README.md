@@ -1,7 +1,7 @@
 
  ## Hi, I’m Gustavo
  
-⚡ Android Developer in training 
+⚡ Developer in training 
  
 ## Reach me
 
@@ -12,11 +12,11 @@
 </p>
 
 ## Currently Learning
-
+<!--
 <p>
   <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
-
+-->
 ## Basic Skills
 
 <p>
