@@ -7,8 +7,8 @@
 
 <p>
   <a href="mailto:gustavohe.rocha@gmail.com" alt="gmail" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.behance.net/gustavorochadesign" alt="behance" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <!--<a href="https://www.linkedin.com/in/gustavorochac" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
+  <!--<a href="https://www.behance.net/gustavorochadesign" alt="behance" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gustavorochac" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
 </p>
 <!--
 ## Currently Learning
