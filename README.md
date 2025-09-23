@@ -1,7 +1,7 @@
 
  ## Hi, I’m Gustavo
  
-⚡ Back-End Development Student 
+⚡ Programming Student
  
 ## Reach me
 
